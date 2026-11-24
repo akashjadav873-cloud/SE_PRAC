@@ -1,1 +1,1 @@
-Hello Git
+echo Hello main mini version
